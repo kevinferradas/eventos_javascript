@@ -7,9 +7,6 @@ const alquiler =document.querySelector('#alquiler')
 
 const importe = document.querySelector('main section:nth-child(2)')
 
-let importe_total = document.querySelector('#importe_total')
-
-
 
 cabriolet.addEventListener("click", () => {
 
